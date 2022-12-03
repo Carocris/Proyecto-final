@@ -105,10 +105,11 @@ body{
 
 /* Inicio*/
 .high-section{
-    background-image: url(../img/021541dbe0346f62772522ee04dd461f.jpg);
+    background-image: url(../img/b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: left;
+   
   
     
 }
